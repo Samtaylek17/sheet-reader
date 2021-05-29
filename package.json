@@ -1,0 +1,26 @@
+{
+  "name": "sheet-reader",
+  "version": "1.0.0",
+  "description": "A small project to extract data from a google spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samtaylek17/sheet-reader.git"
+  },
+  "keywords": [
+    "Googlesheet",
+    "spreadsheet"
+  ],
+  "author": "Temitayo Ogunsusi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samtaylek17/sheet-reader/issues"
+  },
+  "homepage": "https://github.com/Samtaylek17/sheet-reader#readme",
+  "dependencies": {
+    "google-spreadsheet": "^3.1.15"
+  }
+}
